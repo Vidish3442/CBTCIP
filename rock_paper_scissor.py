@@ -12,7 +12,7 @@ def move_from_player(player_name:str,choices:list)->str:
         print("Invalid input")
 
 def move_from_comp(moves:list)->str:
-    move=moves[random.randint(0,2)]
+    move=random.choice(moves)
     return move
 
 def win(move_p:str, move_comp:str)->str:
