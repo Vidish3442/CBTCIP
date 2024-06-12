@@ -72,7 +72,7 @@ def play_game(player1_name:str, player2_name:str)->None:
             print(f"Hint: {give_hint(number_to_guess, guess)}")
 
 
-x=input("Press Enter to start the Game")
+input("Press Enter to start the Game")
 while True:
     print("-----------------------------------------------")
     print('          Welcome to Mastermind Game           ')
