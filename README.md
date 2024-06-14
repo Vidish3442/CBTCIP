@@ -16,7 +16,7 @@ If Player 1 is able to guess the number within a lesser number of tries than Pla
 If not, then Player 2 wins the game.
 
 
-## Task2 (ROCK PAPER SCISSOR GAME
+## Task2 (ROCK PAPER SCISSOR GAME)
 This include a Game where player enter a choice i.e(Rock,Paper or Scissor)\
 **Here the code uses the Random lib in Python to make a choices**\
 As per the choices the result are declared
